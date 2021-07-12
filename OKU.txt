@@ -1,0 +1,7 @@
+https://spyhackerz.org/ ailesine özel olarak kodlanma yapılmıştır.
+
+
+Proxy kullanacaksanız , proxies klasörü içerisine HTTPS proxy koyun.
+Formlara yazılacak olan mesajı klasör içerisinde bulunan message'ye yazın.
+
+Unutmayın ; Güneş tepeden vurursa gölge ayağımızın altıdır.
